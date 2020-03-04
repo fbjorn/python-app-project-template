@@ -1,0 +1,6 @@
+{
+	"application_name": "my-app",
+	"package_name": "my_app",
+	"description": "Bootstrapped Python application",
+	"python_version": "^3.6"
+}

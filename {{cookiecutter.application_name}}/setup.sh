@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+set -exuo pipefail
+
+# WARNING!
+#
+#
+# THIS FILE IS NOT USED IN RUNTIME, ONLY WHILE BUILDING DOCKER IMAGES
+#
+#
+# DO NOT ADD ANYTHING RUNTIME OR ENIVRONMENT SPECIFIS THERE
+
+echo "Building..."
